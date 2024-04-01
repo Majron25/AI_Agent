@@ -1,0 +1,5 @@
+@echo off
+title This if my first batch script.
+echo Welcome to batch scripting.
+start = DFS.py
+pause
